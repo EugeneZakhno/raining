@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/raining/static/css/main.97cd046d.css",
+    "main.js": "/raining/static/js/main.63e08bbc.js",
+    "index.html": "/raining/index.html",
+    "main.97cd046d.css.map": "/raining/static/css/main.97cd046d.css.map",
+    "main.63e08bbc.js.map": "/raining/static/js/main.63e08bbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97cd046d.css",
+    "static/js/main.63e08bbc.js"
+  ]
+}
